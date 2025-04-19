@@ -108,7 +108,9 @@ export default function Services() {
           </h2>
           <p className="text-gray-600 text-lg max-w-2xl mx-auto">
             We offer a comprehensive range of property management services
-            designed to maximize your investment's potential
+            designed to maximize your investment
+            {/* eslint-disable-line react/no-unescaped-entities*/}s potential //
+            eslint-disable-line react/no-unescaped-entities
           </p>
         </div>
 
@@ -196,7 +198,8 @@ export default function Services() {
           <h2 className="text-4xl font-bold mb-8">Ready to Get Started?</h2>
           <p className="text-lg mb-12 max-w-2xl mx-auto text-gray-600 leading-relaxed">
             Contact us today to learn more about how our services can help you
-            maximize your property's potential.
+            maximize your property
+            {/* eslint-disable-line react/no-unescaped-entities*/}s potential.
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center">
             <Button

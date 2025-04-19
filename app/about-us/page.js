@@ -358,7 +358,7 @@ export default function AboutUsV2() {
               data-aos-delay="200"
             >
               Our success is measured by the trust of our clients and the
-              milestones we've achieved
+              milestones we have achieved
             </p>
           </div>
 
